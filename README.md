@@ -1,4 +1,4 @@
-### Hey!
+### Hello there!
 I used to make Roblox scripts, but now I'm trying to move on.
 - Actively working on reverse engineering projects (cheats).
 - Constantly learning new low-level programming concepts.
