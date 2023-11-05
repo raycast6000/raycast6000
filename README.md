@@ -1,7 +1,7 @@
 ### Hey!
-I used to make Roblox scripts, but now I'm trying to make different things.
+I used to make Roblox scripts, but now I'm trying to move on.
 - Actively working on reverse engineering projects (cheats).
-- Constantly learning low-level programming concepts.
+- Constantly learning new low-level programming concepts.
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
