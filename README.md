@@ -1,7 +1,5 @@
-### Hello there!
-I used to make Roblox scripts, but now I'm trying to move on.
-- Actively working on reverse engineering projects (cheats).
-- Constantly learning new low-level programming concepts.
+### Hey, visitor!
+I'm sorry to tell you that this person no longer exists. Thanks for visiting, you can still check out my repos.
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
