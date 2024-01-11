@@ -1,5 +1,5 @@
-### Hey, visitor!
-I'm sorry to tell you that this person no longer exists. Thanks for visiting, you can still check out my repos.
+### Hi there!
+
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
