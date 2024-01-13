@@ -1,5 +1,5 @@
 ### Hi there!
-
+I'll no longer be making open-source software, you can still see all my old projects tho.
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
