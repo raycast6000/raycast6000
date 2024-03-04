@@ -1,5 +1,11 @@
-### Hi there!
-I'll be no longer making open-source software, you can still see all my old projects tho.
+### heya!
+I'm the laziest dev you'll ever meet. Anyways, I like low-level development as well as front-end stuff. My favorite languages are Rust, C/C++ and Lua.
+### Who tf are you?
+A 15 yo Argentine kiddo in his mom's basement tryna become the next Jeff Bezos by making a bunch of useless projects that no one will ever care about.
+### What are your interests?
+- Reverse engineering
+- Low-level programming
+Overall, nerdy stuff. But sometimes I find myself making a website just for the sake of it. Btw, Angular on top.
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
