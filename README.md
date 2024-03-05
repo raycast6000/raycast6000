@@ -6,6 +6,7 @@ A 15 yo Argentinian kiddo in his mom's basement tryna become the next Jeff Bezos
 - Reverse engineering
 - Game hacking
 - Low-level programming \
+\
 Overall, nerdy stuff. But sometimes I find myself making a website just for the sake of it. Btw, Angular on top.
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
