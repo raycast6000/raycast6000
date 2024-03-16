@@ -1,6 +1,6 @@
-### heya!
+### Hi there!
 I'm the laziest dev you'll ever meet. Anyways, I like low-level development as well as front-end stuff. My favorite languages are Rust, C/C++ and Lua.
-### Who tf are you?
+### Who are you?
 A 15 yo Argentinian kiddo in his mom's basement tryna become the next Jeff Bezos by making a bunch of useless projects that no one will ever care about.
 ### What are your interests?
 - Reverse engineering
