@@ -9,9 +9,6 @@ A 15-year-old kid in his mom's basement tryna become the next Jeff Bezos by maki
 - Low-level programming \
 \
 Overall, nerdy stuff. But sometimes I find myself making a website just for the sake of it. Btw, Angular is the 🐐.
-### Warning
-This account is inactive as of May 13, 2024. My repositories will remain unmaintained until further notice. \
-Newer projects will be on [my V3rm account](https://v3rm.net/members/raycast.5338/).
 <!--
 **raycast6000/raycast6000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
